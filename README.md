@@ -1,1 +1,42 @@
-# my-site1
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="portfolio.css">
+ <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">   <title>Портфолио Junior QA</title>
+  </head>
+
+  <body>
+    <header class="page-header">
+  <div class="container">    +380961894464
+  </div>  </header>
+
+    <section class="intro">
+ <div class="container"     <h1 class="heading">Шенгелия Давид</h1>
+      <p>Junior QA</p>
+    </section>
+
+    <section class="intro">
+      <h2 class="subheading">Давайте познакомимся</h2>
+ <figure> <img src="portfolio-step-1.zip/img/photo.jpg"width="928" height="536" alt="Фото Давида"> <figure> </div><div class="skills">
+  <h3>Мои навыки</h3>
+  <dl class="skills-list">
+    <dt class="skill-html">HTML</dt>
+    <dd class="level"><div style="width: 60%;">60%</div></dd>
+    <dt class="skill-css">CSS</dt>
+    <dd class="level"><div style="width: 40%;">40%</div></dd>
+  </dl>
+</div>    <h4>Пара слов о себе</h3>
+      <p>Проактивный,целеустремлённый,комндный игрок.</p>
+      <h3>Чем могу быть полезен</h4>
+      <p>Приложу все усилия для улучшения имиджа компании</p>
+    </section>
+
+    <section class="portfolio">
+         </section>
+
+    <footer class="page-footer">
+
+    </footer>
+  </body>
+</html> 
